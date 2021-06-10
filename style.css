@@ -76,3 +76,14 @@ h2 {
 body > main > div.characters {
   margin-top: -300px;
 }
+body > main > div.characters > div.tools > button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 6px;
+  font-size: 12px;
+}
+#fname {
+  border: none;
+  padding: 3px;
+}
